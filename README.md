@@ -9,4 +9,5 @@ Necessário:
  - DOMXPath();
 
 Elaborado por Glauber Funez.
-Facebook: facebook.com/glauber.funez
+Facebook: http://facebook.com/glauber.funez
+
