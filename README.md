@@ -8,4 +8,5 @@ Necessário:
  - DOMDocument();
  - DOMXPath();
 
-Elaborado por João Luiz Castro Naufel <joaoluiznaufel@gmail.com>
+Elaborado por Glauber Funez.
+Facebook: facebook.com/glauber.funez
